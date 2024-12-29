@@ -7,7 +7,7 @@ using Newtonsoft.Json;
 class Program
 {
     // API_KEY
-    private const string ApiKey = "07876b39e43fcb5be83a1ae2281a4af2";
+    private const string ApiKey = "your_openweathermap_api_key";
 
     static async Task Main(string[] args)
     {
